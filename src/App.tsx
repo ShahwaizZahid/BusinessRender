@@ -33,6 +33,7 @@ function App() {
       <StatusSection />
       <Footer />
       <LinksSection />
+      
     </div>
   );
 }
